@@ -5,4 +5,4 @@ Repository Details
 * Created a simple app using streamlit to convert image into pencil drawn sketch image.
 * Supporting packages - numpy, pillow and cv2. 
 
-![](/images/positions_by_state.png)
+![](/Images/Screenshot.png)
