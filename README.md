@@ -27,4 +27,4 @@
 * Sample Bug Application (Blog Articles application).
 * Supporting packages - Django. 
 
-![](/Images/Homepage.png)
+![](/Images/Bughomepage.png)
